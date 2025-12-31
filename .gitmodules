@@ -1,0 +1,3 @@
+[submodule "AHRS/AHRS_KF"]
+	path = AHRS/AHRS_KF
+	url = git@github.com:Amiraqaie/AHRS_KF.git
